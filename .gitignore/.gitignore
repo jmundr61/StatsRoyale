@@ -1,0 +1,1068 @@
+
+<!DOCTYPE html>
+<html xmlns:n="http://www.w3.org/1999/xhtml">
+<head>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({
+                google_ad_client: "ca-pub-5107917538748963",
+                enable_page_level_ads: true
+            });
+        </script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="Deck Check is the best tool to spot mistakes in your deck and find ways to improve it. Check your deck too on www.deckshop.pro!">
+
+    <title>Check your Clash Royale deck on Deck Shop! | Improve your Clash Royale deck</title>
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+
+        <link rel="stylesheet" href="/css/front.css?10">
+        <link rel="stylesheet" href="/css/redesign.css?7">
+        
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+
+    <meta property="og:title"              content="Check your Clash Royale deck on Deck Shop!">
+    <meta property="og:description"        content="Deck Check is the best tool to spot mistakes in your deck and find ways to improve it. Check your deck too on www.deckshop.pro!">
+    <meta property="og:image" content="https://www.deckshop.pro/img/share/check_deck.jpg?">
+    <meta property="og:type"               content="website">
+
+    <meta name="format-detection" content="telephone=no">
+</head>
+
+<body >
+    <script>
+        (function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() {
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-380987-26', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+
+    
+    <div class="container">
+        <!-- Homepage leaderboard -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5107917538748963"
+             data-ad-slot="3863434730"
+             data-ad-format="auto"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({ });
+        </script>
+    </div>
+
+    <div class="jumbotron jumbotron-fluid bg-dark py-3 mb-3" id="friendlyReminder" style="display: none;">
+        <div class="container">
+
+            <img src="/img/emote_cry.png" alt=":(" class="float-left emote-cry-animation mr-3 mb-3" style="height: 60px;">
+
+            <p class="text-white">
+                Seems like you have ad blocking enabled. <span class="text-muted">I get it, I don't like ads too, but they help me to run this site.</span>
+            </p>
+
+            <p class="text-white">
+                If you like Deck Shop, consider disabling Adblock for this site or donating. Thanks!
+            </p>
+
+            <p class="mb-0 text-center"><a class="btn btn-outline-success btn-sm" href="/about/#supportBox">I love Deck Shop and I want to support it!</a></p>
+
+        </div>
+    </div>
+
+    <nav class="navbar navbar-expand-md navbar-dark">
+
+        <div class="container">
+
+            <a class="navbar-brand" id="logo" href="/">
+                <img src="/img/clashroyale_logo.png" class="mr-2" alt="Clash Royale">
+                <span>Deck Shop</span>
+            </a>
+
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#mainMenu" aria-controls="mainMenu" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="mainMenu">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/check/deck">
+                            <span class="d-md-none">Deck check</span>
+                            <span class="d-none d-lg-block">Deck check</span>
+                            <span class="d-lg-none d-none d-md-block">Check</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/deck/picker">
+                            <span class="d-md-none">Deck picker</span>
+                            <span class="d-none d-lg-block">Deck picker</span>
+                            <span class="d-lg-none d-none d-md-block">Picker</span>
+
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/deck/">
+                            <span class="d-md-none">Best decks</span>
+                            <span class="d-none d-lg-block">Best decks</span>
+                            <span class="d-lg-none d-none d-md-block">Decks</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/card/">
+                            Cards
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/guide/">
+                            Guides
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/about/">
+                            <span class="d-md-none">About the web</span>
+                            <span class="d-none d-lg-block">About the web</span>
+                            <span class="d-lg-none d-none d-md-block">About</span>
+                        </a>
+                    </li>
+                </ul>
+
+                <ul class="navbar-nav">
+                    <li class="nav-item dropdown" id="language">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown">
+                            <img src="/img/globe.svg" alt="Language" style="height: 1.0rem; margin-top: -3px;" id="Globe">
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right bg-dark">
+                            <a dir="ltr" href="/check/deck" class="dropdown-item text-white">
+                                English
+                            </a>
+                            <a dir="ltr" href="/cs/check/deck" class="dropdown-item">
+                                Česky
+                            </a>
+                            <a dir="ltr" href="/sk/check/deck" class="dropdown-item">
+                                Slovensky
+                            </a>
+                            <a dir="rtl" href="/ar/check/deck" class="dropdown-item">
+                                العربيّة
+                            </a>
+                            <div class="dropdown-divider"></div>
+                            <a dir="ltr" href="/about/translations" class="dropdown-item text-info">
+                                Help translate!
+                            </a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+        <div class="jumbotron jumbotron-fluid bg-primary py-3 py-sm-3 py-md-4 py-lg-4 px-md-3 px-lg-0 mb-0">
+        <div class="container clearfix">
+            <h1 class="display-4 text-white mb-0">
+                Deck check
+
+                <span class="rtl-float-right" id="btn_restart" style="display:none;">
+                    <a class="btn btn-outline-secondary text-white" id="btn_restart_a" href="/check/deck">Start over</a>
+                </span>
+            </h1>
+        </div>
+    </div>
+    <div id="step1">
+        <div class="jumbotron jumbotron-fluid bg-dark py-3 py-sm-3 py-md-4 py-lg-4 px-md-3 px-lg-0 my-1">
+            <div class="container clearfix">
+                <h2 class="display-5 text-white" id="arena_h1">
+                    1. Your arena? <span class="text-white ml-2" id="arena_selected" style="display: none;"></span>
+
+                    <span class="rtl-float-right" id="btn_edit_arena" style="display:none;">
+                        <a href="#" class="btn btn-outline-secondary">Edit</a>
+                    </span>
+                </h2>
+                <p class="text-white mb-0 lead" id="arena_info">In order to give you better advice about your deck, we need to know what arena are you in.</p>
+            </div>
+        </div>
+
+        <div class="container text-center">
+            <div class="py-3" id="arena_picker">
+
+                <div class="btn-group d-none d-lg-block" role="group" aria-label="Arena selection">
+                    <a href="#" class="btn btn-outline-primary" data-arena="1"><div class="h4">Arena 1</div> <span class="text-white d-none d-md-block">Goblin Stadium</span> <br class="d-none d-md-block"> <span class="text-warning">0+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="2"><div class="h4">Arena 2</div> <span class="text-white d-none d-md-block">Bone Pit</span> <br class="d-none d-md-block"> <span class="text-warning">400+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="3"><div class="h4">Arena 3</div> <span class="text-white d-none d-md-block">Barbarian Bowl</span> <br class="d-none d-md-block"> <span class="text-warning">800+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="4"><div class="h4">Arena 4</div> <span class="text-white d-none d-md-block">P.E.K.K.A's Playhouse</span> <br class="d-none d-md-block"> <span class="text-warning">1100+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="5"><div class="h4">Arena 5</div> <span class="text-white d-none d-md-block">Spell Valley</span> <br class="d-none d-md-block"> <span class="text-warning">1400+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="6"><div class="h4">Arena 6</div> <span class="text-white d-none d-md-block">Builder's Workshop</span> <br class="d-none d-md-block"> <span class="text-warning">1700+</span></a>
+                </div>
+
+                <div class="btn-group d-none d-lg-block" role="group" aria-label="Arena selection">
+                    <a href="#" class="btn btn-outline-primary" data-arena="7"><div class="h4">Arena 7</div> <span class="text-white d-none d-md-block">Royal Arena</span> <br class="d-none d-md-block"> <span class="text-warning">2000+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="8"><div class="h4">Arena 8</div> <span class="text-white d-none d-md-block">Frozen Peak</span> <br class="d-none d-md-block"> <span class="text-warning">2300+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="9"><div class="h4">Arena 9</div> <span class="text-white d-none d-md-block">Jungle Arena</span> <br class="d-none d-md-block"> <span class="text-warning">2600+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="10"><div class="h4">Arena 10</div> <span class="text-white d-none d-md-block">Hog Mountain</span> <br class="d-none d-md-block"> <span class="text-warning">3000+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="11"><div class="h4">Arena 11</div> <span class="text-white d-none d-md-block">Legendary Arena</span> <br class="d-none d-md-block"> <span class="text-warning">3800+</span></a>
+                </div>
+
+
+                <div class="btn-group-vertical d-lg-none" role="group" aria-label="Arena selection">
+                    <a href="#" class="btn btn-outline-primary" data-arena="1"><div class="h4">Arena 1</div> <span class="text-white d-none d-md-block">Goblin Stadium</span> <br class="d-none d-md-block"> <span class="text-warning">0+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="3"><div class="h4">Arena 3</div> <span class="text-white d-none d-md-block">Barbarian Bowl</span> <br class="d-none d-md-block"> <span class="text-warning">800+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="5"><div class="h4">Arena 5</div> <span class="text-white d-none d-md-block">Spell Valley</span> <br class="d-none d-md-block"> <span class="text-warning">1400+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="7"><div class="h4">Arena 7</div> <span class="text-white d-none d-md-block">Royal Arena</span> <br class="d-none d-md-block"> <span class="text-warning">2000+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="9"><div class="h4">Arena 9</div> <span class="text-white d-none d-md-block">Jungle Arena</span> <br class="d-none d-md-block"> <span class="text-warning">2600+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="11"><div class="h4">Arena 11</div> <span class="text-white d-none d-md-block">Legendary Arena</span> <br class="d-none d-md-block"> <span class="text-warning">3800+</span></a>
+                </div>
+
+                <div class="btn-group-vertical d-lg-none" role="group" aria-label="Arena selection">
+                    <a href="#" class="btn btn-outline-primary" data-arena="2"><div class="h4">Arena 2</div> <span class="text-white d-none d-md-block">Bone Pit</span> <br class="d-none d-md-block"> <span class="text-warning">400+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="4"><div class="h4">Arena 4</div> <span class="text-white d-none d-md-block">P.E.K.K.A's Playhouse</span> <br class="d-none d-md-block"> <span class="text-warning">1100+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="6"><div class="h4">Arena 6</div> <span class="text-white d-none d-md-block">Builder's Workshop</span> <br class="d-none d-md-block"> <span class="text-warning">1700+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="8"><div class="h4">Arena 8</div> <span class="text-white d-none d-md-block">Frozen Peak</span> <br class="d-none d-md-block"> <span class="text-warning">2300+</span></a>
+                    <a href="#" class="btn btn-outline-primary" data-arena="10"><div class="h4">Arena 10</div> <span class="text-white d-none d-md-block">Hog Mountain</span> <br class="d-none d-md-block"> <span class="text-warning">3000+</span></a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div id="step2">
+        <div class="jumbotron jumbotron-fluid bg-dark py-3 py-sm-3 py-md-4 py-lg-4 px-md-3 px-lg-0 my-1">
+            <div class="container clearfix">
+                <h2 class="display-5 text-muted" id="missing_h1">
+                    2. Cards you don't have? <span class="text-white ml-2" style="display: none;" id="missing_nothing">&mdash;</span>
+
+                    <span class="rtl-float-right" id="btn_edit_missing" style="display:none;">
+                        <a href="#" class="btn btn-outline-secondary">Edit</a>
+                    </span>
+                </h2>
+                <p class="text-muted" id="missing_info">For better card recommendations, we need to know what cards you don't have.</p>
+
+                <div id="missing_selected" class="list-of-cards clearfix mt-4" style="display: none;">
+                    <a target="_blank" class="card_link" data-hash="Skellies" data-elixir="1" data-rarity="1" data-arena="2" style="display: none;" href="/card/detail/Skellies"><img src="/img/cards/Skellies.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="IceSpirit" data-elixir="1" data-rarity="1" data-arena="8" style="display: none;" href="/card/detail/IceSpirit"><img src="/img/cards/IceSpirit.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Gobs" data-elixir="2" data-rarity="1" data-arena="1" style="display: none;" href="/card/detail/Gobs"><img src="/img/cards/Gobs.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="SpearGobs" data-elixir="2" data-rarity="1" data-arena="1" style="display: none;" href="/card/detail/SpearGobs"><img src="/img/cards/SpearGobs.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="FireSpirits" data-elixir="2" data-rarity="1" data-arena="5" style="display: none;" href="/card/detail/FireSpirits"><img src="/img/cards/FireSpirits.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Zap" data-elixir="2" data-rarity="1" data-arena="5" style="display: none;" href="/card/detail/Zap"><img src="/img/cards/Zap.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Bats" data-elixir="2" data-rarity="1" data-arena="8" style="display: none;" href="/card/detail/Bats"><img src="/img/cards/Bats.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Archers" data-elixir="3" data-rarity="1" data-arena="0" style="display: none;" href="/card/detail/Archers"><img src="/img/cards/Archers.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Arrows" data-elixir="3" data-rarity="1" data-arena="0" style="display: none;" href="/card/detail/Arrows"><img src="/img/cards/Arrows.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Bomber" data-elixir="3" data-rarity="1" data-arena="0" style="display: none;" href="/card/detail/Bomber"><img src="/img/cards/Bomber.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Knight" data-elixir="3" data-rarity="1" data-arena="0" style="display: none;" href="/card/detail/Knight"><img src="/img/cards/Knight.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Minions" data-elixir="3" data-rarity="1" data-arena="2" style="display: none;" href="/card/detail/Minions"><img src="/img/cards/Minions.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Cannon" data-elixir="3" data-rarity="1" data-arena="3" style="display: none;" href="/card/detail/Cannon"><img src="/img/cards/Cannon.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="GobGang" data-elixir="3" data-rarity="1" data-arena="9" style="display: none;" href="/card/detail/GobGang"><img src="/img/cards/GobGang.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Tesla" data-elixir="4" data-rarity="1" data-arena="4" style="display: none;" href="/card/detail/Tesla"><img src="/img/cards/Tesla.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Mortar" data-elixir="4" data-rarity="1" data-arena="6" style="display: none;" href="/card/detail/Mortar"><img src="/img/cards/Mortar.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Barbs" data-elixir="5" data-rarity="1" data-arena="3" style="display: none;" href="/card/detail/Barbs"><img src="/img/cards/Barbs.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Horde" data-elixir="5" data-rarity="1" data-arena="4" style="display: none;" href="/card/detail/Horde"><img src="/img/cards/Horde.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="eBarbs" data-elixir="6" data-rarity="1" data-arena="7" style="display: none;" href="/card/detail/eBarbs"><img src="/img/cards/eBarbs.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="RG" data-elixir="6" data-rarity="1" data-arena="7" style="display: none;" href="/card/detail/RG"><img src="/img/cards/RG.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="IceGolem" data-elixir="2" data-rarity="2" data-arena="8" style="display: none;" href="/card/detail/IceGolem"><img src="/img/cards/IceGolem.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Tombstone" data-elixir="3" data-rarity="2" data-arena="2" style="display: none;" href="/card/detail/Tombstone"><img src="/img/cards/Tombstone.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="MM" data-elixir="3" data-rarity="2" data-arena="7" style="display: none;" href="/card/detail/MM"><img src="/img/cards/MM.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="DartGob" data-elixir="3" data-rarity="2" data-arena="9" style="display: none;" href="/card/detail/DartGob"><img src="/img/cards/DartGob.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Heal" data-elixir="3" data-rarity="2" data-arena="10" style="display: none;" href="/card/detail/Heal"><img src="/img/cards/Heal.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Fireball" data-elixir="4" data-rarity="2" data-arena="0" style="display: none;" href="/card/detail/Fireball"><img src="/img/cards/Fireball.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="MP" data-elixir="4" data-rarity="2" data-arena="0" style="display: none;" href="/card/detail/MP"><img src="/img/cards/MP.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Musk" data-elixir="4" data-rarity="2" data-arena="0" style="display: none;" href="/card/detail/Musk"><img src="/img/cards/Musk.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Valk" data-elixir="4" data-rarity="2" data-arena="1" style="display: none;" href="/card/detail/Valk"><img src="/img/cards/Valk.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Hog" data-elixir="4" data-rarity="2" data-arena="4" style="display: none;" href="/card/detail/Hog"><img src="/img/cards/Hog.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Furnace" data-elixir="4" data-rarity="2" data-arena="5" style="display: none;" href="/card/detail/Furnace"><img src="/img/cards/Furnace.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Ram" data-elixir="4" data-rarity="2" data-arena="6" style="display: none;" href="/card/detail/Ram"><img src="/img/cards/Ram.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Giant" data-elixir="5" data-rarity="2" data-arena="0" style="display: none;" href="/card/detail/Giant"><img src="/img/cards/Giant.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="GobHut" data-elixir="5" data-rarity="2" data-arena="1" style="display: none;" href="/card/detail/GobHut"><img src="/img/cards/GobHut.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="BombTower" data-elixir="5" data-rarity="2" data-arena="2" style="display: none;" href="/card/detail/BombTower"><img src="/img/cards/BombTower.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Inferno" data-elixir="5" data-rarity="2" data-arena="4" style="display: none;" href="/card/detail/Inferno"><img src="/img/cards/Inferno.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Wiz" data-elixir="5" data-rarity="2" data-arena="5" style="display: none;" href="/card/detail/Wiz"><img src="/img/cards/Wiz.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Rocket" data-elixir="6" data-rarity="2" data-arena="3" style="display: none;" href="/card/detail/Rocket"><img src="/img/cards/Rocket.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Pump" data-elixir="6" data-rarity="2" data-arena="6" style="display: none;" href="/card/detail/Pump"><img src="/img/cards/Pump.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="BarbHut" data-elixir="7" data-rarity="2" data-arena="3" style="display: none;" href="/card/detail/BarbHut"><img src="/img/cards/BarbHut.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="3M" data-elixir="9" data-rarity="2" data-arena="7" style="display: none;" href="/card/detail/3M"><img src="/img/cards/3M.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Mirror" data-elixir="" data-rarity="3" data-arena="5" style="display: none;" href="/card/detail/Mirror"><img src="/img/cards/Mirror.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Rage" data-elixir="2" data-rarity="3" data-arena="3" style="display: none;" href="/card/detail/Rage"><img src="/img/cards/Rage.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Skarmy" data-elixir="3" data-rarity="3" data-arena="0" style="display: none;" href="/card/detail/Skarmy"><img src="/img/cards/Skarmy.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Barrel" data-elixir="3" data-rarity="3" data-arena="1" style="display: none;" href="/card/detail/Barrel"><img src="/img/cards/Barrel.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Tornado" data-elixir="3" data-rarity="3" data-arena="6" style="display: none;" href="/card/detail/Tornado"><img src="/img/cards/Tornado.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Guards" data-elixir="3" data-rarity="3" data-arena="7" style="display: none;" href="/card/detail/Guards"><img src="/img/cards/Guards.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Clone" data-elixir="3" data-rarity="3" data-arena="8" style="display: none;" href="/card/detail/Clone"><img src="/img/cards/Clone.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="BabyD" data-elixir="4" data-rarity="3" data-arena="0" style="display: none;" href="/card/detail/BabyD"><img src="/img/cards/BabyD.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Freeze" data-elixir="4" data-rarity="3" data-arena="4" style="display: none;" href="/card/detail/Freeze"><img src="/img/cards/Freeze.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Poison" data-elixir="4" data-rarity="3" data-arena="5" style="display: none;" href="/card/detail/Poison"><img src="/img/cards/Poison.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="DarkPrince" data-elixir="4" data-rarity="3" data-arena="7" style="display: none;" href="/card/detail/DarkPrince"><img src="/img/cards/DarkPrince.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Prince" data-elixir="5" data-rarity="3" data-arena="0" style="display: none;" href="/card/detail/Prince"><img src="/img/cards/Prince.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Witch" data-elixir="5" data-rarity="3" data-arena="0" style="display: none;" href="/card/detail/Witch"><img src="/img/cards/Witch.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Balloon" data-elixir="5" data-rarity="3" data-arena="2" style="display: none;" href="/card/detail/Balloon"><img src="/img/cards/Balloon.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Bowler" data-elixir="5" data-rarity="3" data-arena="8" style="display: none;" href="/card/detail/Bowler"><img src="/img/cards/Bowler.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Exe" data-elixir="5" data-rarity="3" data-arena="9" style="display: none;" href="/card/detail/Exe"><img src="/img/cards/Exe.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="CannonCart" data-elixir="5" data-rarity="3" data-arena="10" style="display: none;" href="/card/detail/CannonCart"><img src="/img/cards/CannonCart.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Lightning" data-elixir="6" data-rarity="3" data-arena="1" style="display: none;" href="/card/detail/Lightning"><img src="/img/cards/Lightning.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="GiantSkelly" data-elixir="6" data-rarity="3" data-arena="2" style="display: none;" href="/card/detail/GiantSkelly"><img src="/img/cards/GiantSkelly.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="XBow" data-elixir="6" data-rarity="3" data-arena="3" style="display: none;" href="/card/detail/XBow"><img src="/img/cards/XBow.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="PEKKA" data-elixir="7" data-rarity="3" data-arena="4" style="display: none;" href="/card/detail/PEKKA"><img src="/img/cards/PEKKA.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Golem" data-elixir="8" data-rarity="3" data-arena="6" style="display: none;" href="/card/detail/Golem"><img src="/img/cards/Golem.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Log" data-elixir="2" data-rarity="4" data-arena="6" style="display: none;" href="/card/detail/Log"><img src="/img/cards/Log.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="IceWiz" data-elixir="3" data-rarity="4" data-arena="5" style="display: none;" href="/card/detail/IceWiz"><img src="/img/cards/IceWiz.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Miner" data-elixir="3" data-rarity="4" data-arena="6" style="display: none;" href="/card/detail/Miner"><img src="/img/cards/Miner.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Princess" data-elixir="3" data-rarity="4" data-arena="7" style="display: none;" href="/card/detail/Princess"><img src="/img/cards/Princess.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Bandit" data-elixir="3" data-rarity="4" data-arena="9" style="display: none;" href="/card/detail/Bandit"><img src="/img/cards/Bandit.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="InfernoD" data-elixir="4" data-rarity="4" data-arena="4" style="display: none;" href="/card/detail/InfernoD"><img src="/img/cards/InfernoD.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="eWiz" data-elixir="4" data-rarity="4" data-arena="7" style="display: none;" href="/card/detail/eWiz"><img src="/img/cards/eWiz.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Lumber" data-elixir="4" data-rarity="4" data-arena="8" style="display: none;" href="/card/detail/Lumber"><img src="/img/cards/Lumber.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="NightWitch" data-elixir="4" data-rarity="4" data-arena="8" style="display: none;" href="/card/detail/NightWitch"><img src="/img/cards/NightWitch.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Graveyard" data-elixir="5" data-rarity="4" data-arena="5" style="display: none;" href="/card/detail/Graveyard"><img src="/img/cards/Graveyard.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Sparky" data-elixir="6" data-rarity="4" data-arena="6" style="display: none;" href="/card/detail/Sparky"><img src="/img/cards/Sparky.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="Lava" data-elixir="7" data-rarity="4" data-arena="4" style="display: none;" href="/card/detail/Lava"><img src="/img/cards/Lava.png" class="cr-card"></a>
+                    <a target="_blank" class="card_link" data-hash="MegaKnight" data-elixir="7" data-rarity="4" data-arena="10" style="display: none;" href="/card/detail/MegaKnight"><img src="/img/cards/MegaKnight.png" class="cr-card"></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container pb-2 my-3" style="display: none;" id="missing_picker">
+            <div id="card_picker_missing" class="card_picker clearfix list-of-cards">
+                <a href="#" class="card_link" data-hash="Skellies" data-elixir="1" data-rarity="1" data-arena="2"><img src="/img/cards/Skellies.png" class="cr-card" id="missing_card_Skellies"></a>
+                <a href="#" class="card_link" data-hash="IceSpirit" data-elixir="1" data-rarity="1" data-arena="8"><img src="/img/cards/IceSpirit.png" class="cr-card" id="missing_card_IceSpirit"></a>
+                <a href="#" class="card_link" data-hash="Gobs" data-elixir="2" data-rarity="1" data-arena="1"><img src="/img/cards/Gobs.png" class="cr-card" id="missing_card_Gobs"></a>
+                <a href="#" class="card_link" data-hash="SpearGobs" data-elixir="2" data-rarity="1" data-arena="1"><img src="/img/cards/SpearGobs.png" class="cr-card" id="missing_card_SpearGobs"></a>
+                <a href="#" class="card_link" data-hash="FireSpirits" data-elixir="2" data-rarity="1" data-arena="5"><img src="/img/cards/FireSpirits.png" class="cr-card" id="missing_card_FireSpirits"></a>
+                <a href="#" class="card_link" data-hash="Zap" data-elixir="2" data-rarity="1" data-arena="5"><img src="/img/cards/Zap.png" class="cr-card" id="missing_card_Zap"></a>
+                <a href="#" class="card_link" data-hash="Bats" data-elixir="2" data-rarity="1" data-arena="8"><img src="/img/cards/Bats.png" class="cr-card" id="missing_card_Bats"></a>
+                <a href="#" class="card_link" data-hash="Archers" data-elixir="3" data-rarity="1" data-arena="0"><img src="/img/cards/Archers.png" class="cr-card" id="missing_card_Archers"></a>
+                <a href="#" class="card_link" data-hash="Arrows" data-elixir="3" data-rarity="1" data-arena="0"><img src="/img/cards/Arrows.png" class="cr-card" id="missing_card_Arrows"></a>
+                <a href="#" class="card_link" data-hash="Bomber" data-elixir="3" data-rarity="1" data-arena="0"><img src="/img/cards/Bomber.png" class="cr-card" id="missing_card_Bomber"></a>
+                <a href="#" class="card_link" data-hash="Knight" data-elixir="3" data-rarity="1" data-arena="0"><img src="/img/cards/Knight.png" class="cr-card" id="missing_card_Knight"></a>
+                <a href="#" class="card_link" data-hash="Minions" data-elixir="3" data-rarity="1" data-arena="2"><img src="/img/cards/Minions.png" class="cr-card" id="missing_card_Minions"></a>
+                <a href="#" class="card_link" data-hash="Cannon" data-elixir="3" data-rarity="1" data-arena="3"><img src="/img/cards/Cannon.png" class="cr-card" id="missing_card_Cannon"></a>
+                <a href="#" class="card_link" data-hash="GobGang" data-elixir="3" data-rarity="1" data-arena="9"><img src="/img/cards/GobGang.png" class="cr-card" id="missing_card_GobGang"></a>
+                <a href="#" class="card_link" data-hash="Tesla" data-elixir="4" data-rarity="1" data-arena="4"><img src="/img/cards/Tesla.png" class="cr-card" id="missing_card_Tesla"></a>
+                <a href="#" class="card_link" data-hash="Mortar" data-elixir="4" data-rarity="1" data-arena="6"><img src="/img/cards/Mortar.png" class="cr-card" id="missing_card_Mortar"></a>
+                <a href="#" class="card_link" data-hash="Barbs" data-elixir="5" data-rarity="1" data-arena="3"><img src="/img/cards/Barbs.png" class="cr-card" id="missing_card_Barbs"></a>
+                <a href="#" class="card_link" data-hash="Horde" data-elixir="5" data-rarity="1" data-arena="4"><img src="/img/cards/Horde.png" class="cr-card" id="missing_card_Horde"></a>
+                <a href="#" class="card_link" data-hash="eBarbs" data-elixir="6" data-rarity="1" data-arena="7"><img src="/img/cards/eBarbs.png" class="cr-card" id="missing_card_eBarbs"></a>
+                <a href="#" class="card_link" data-hash="RG" data-elixir="6" data-rarity="1" data-arena="7"><img src="/img/cards/RG.png" class="cr-card" id="missing_card_RG"></a>
+                <a href="#" class="card_link" data-hash="IceGolem" data-elixir="2" data-rarity="2" data-arena="8"><img src="/img/cards/IceGolem.png" class="cr-card" id="missing_card_IceGolem"></a>
+                <a href="#" class="card_link" data-hash="Tombstone" data-elixir="3" data-rarity="2" data-arena="2"><img src="/img/cards/Tombstone.png" class="cr-card" id="missing_card_Tombstone"></a>
+                <a href="#" class="card_link" data-hash="MM" data-elixir="3" data-rarity="2" data-arena="7"><img src="/img/cards/MM.png" class="cr-card" id="missing_card_MM"></a>
+                <a href="#" class="card_link" data-hash="DartGob" data-elixir="3" data-rarity="2" data-arena="9"><img src="/img/cards/DartGob.png" class="cr-card" id="missing_card_DartGob"></a>
+                <a href="#" class="card_link" data-hash="Heal" data-elixir="3" data-rarity="2" data-arena="10"><img src="/img/cards/Heal.png" class="cr-card" id="missing_card_Heal"></a>
+                <a href="#" class="card_link" data-hash="Fireball" data-elixir="4" data-rarity="2" data-arena="0"><img src="/img/cards/Fireball.png" class="cr-card" id="missing_card_Fireball"></a>
+                <a href="#" class="card_link" data-hash="MP" data-elixir="4" data-rarity="2" data-arena="0"><img src="/img/cards/MP.png" class="cr-card" id="missing_card_MP"></a>
+                <a href="#" class="card_link" data-hash="Musk" data-elixir="4" data-rarity="2" data-arena="0"><img src="/img/cards/Musk.png" class="cr-card" id="missing_card_Musk"></a>
+                <a href="#" class="card_link" data-hash="Valk" data-elixir="4" data-rarity="2" data-arena="1"><img src="/img/cards/Valk.png" class="cr-card" id="missing_card_Valk"></a>
+                <a href="#" class="card_link" data-hash="Hog" data-elixir="4" data-rarity="2" data-arena="4"><img src="/img/cards/Hog.png" class="cr-card" id="missing_card_Hog"></a>
+                <a href="#" class="card_link" data-hash="Furnace" data-elixir="4" data-rarity="2" data-arena="5"><img src="/img/cards/Furnace.png" class="cr-card" id="missing_card_Furnace"></a>
+                <a href="#" class="card_link" data-hash="Ram" data-elixir="4" data-rarity="2" data-arena="6"><img src="/img/cards/Ram.png" class="cr-card" id="missing_card_Ram"></a>
+                <a href="#" class="card_link" data-hash="Giant" data-elixir="5" data-rarity="2" data-arena="0"><img src="/img/cards/Giant.png" class="cr-card" id="missing_card_Giant"></a>
+                <a href="#" class="card_link" data-hash="GobHut" data-elixir="5" data-rarity="2" data-arena="1"><img src="/img/cards/GobHut.png" class="cr-card" id="missing_card_GobHut"></a>
+                <a href="#" class="card_link" data-hash="BombTower" data-elixir="5" data-rarity="2" data-arena="2"><img src="/img/cards/BombTower.png" class="cr-card" id="missing_card_BombTower"></a>
+                <a href="#" class="card_link" data-hash="Inferno" data-elixir="5" data-rarity="2" data-arena="4"><img src="/img/cards/Inferno.png" class="cr-card" id="missing_card_Inferno"></a>
+                <a href="#" class="card_link" data-hash="Wiz" data-elixir="5" data-rarity="2" data-arena="5"><img src="/img/cards/Wiz.png" class="cr-card" id="missing_card_Wiz"></a>
+                <a href="#" class="card_link" data-hash="Rocket" data-elixir="6" data-rarity="2" data-arena="3"><img src="/img/cards/Rocket.png" class="cr-card" id="missing_card_Rocket"></a>
+                <a href="#" class="card_link" data-hash="Pump" data-elixir="6" data-rarity="2" data-arena="6"><img src="/img/cards/Pump.png" class="cr-card" id="missing_card_Pump"></a>
+                <a href="#" class="card_link" data-hash="BarbHut" data-elixir="7" data-rarity="2" data-arena="3"><img src="/img/cards/BarbHut.png" class="cr-card" id="missing_card_BarbHut"></a>
+                <a href="#" class="card_link" data-hash="3M" data-elixir="9" data-rarity="2" data-arena="7"><img src="/img/cards/3M.png" class="cr-card" id="missing_card_3M"></a>
+                <a href="#" class="card_link" data-hash="Mirror" data-elixir="" data-rarity="3" data-arena="5"><img src="/img/cards/Mirror.png" class="cr-card" id="missing_card_Mirror"></a>
+                <a href="#" class="card_link" data-hash="Rage" data-elixir="2" data-rarity="3" data-arena="3"><img src="/img/cards/Rage.png" class="cr-card" id="missing_card_Rage"></a>
+                <a href="#" class="card_link" data-hash="Skarmy" data-elixir="3" data-rarity="3" data-arena="0"><img src="/img/cards/Skarmy.png" class="cr-card" id="missing_card_Skarmy"></a>
+                <a href="#" class="card_link" data-hash="Barrel" data-elixir="3" data-rarity="3" data-arena="1"><img src="/img/cards/Barrel.png" class="cr-card" id="missing_card_Barrel"></a>
+                <a href="#" class="card_link" data-hash="Tornado" data-elixir="3" data-rarity="3" data-arena="6"><img src="/img/cards/Tornado.png" class="cr-card" id="missing_card_Tornado"></a>
+                <a href="#" class="card_link" data-hash="Guards" data-elixir="3" data-rarity="3" data-arena="7"><img src="/img/cards/Guards.png" class="cr-card" id="missing_card_Guards"></a>
+                <a href="#" class="card_link" data-hash="Clone" data-elixir="3" data-rarity="3" data-arena="8"><img src="/img/cards/Clone.png" class="cr-card" id="missing_card_Clone"></a>
+                <a href="#" class="card_link" data-hash="BabyD" data-elixir="4" data-rarity="3" data-arena="0"><img src="/img/cards/BabyD.png" class="cr-card" id="missing_card_BabyD"></a>
+                <a href="#" class="card_link" data-hash="Freeze" data-elixir="4" data-rarity="3" data-arena="4"><img src="/img/cards/Freeze.png" class="cr-card" id="missing_card_Freeze"></a>
+                <a href="#" class="card_link" data-hash="Poison" data-elixir="4" data-rarity="3" data-arena="5"><img src="/img/cards/Poison.png" class="cr-card" id="missing_card_Poison"></a>
+                <a href="#" class="card_link" data-hash="DarkPrince" data-elixir="4" data-rarity="3" data-arena="7"><img src="/img/cards/DarkPrince.png" class="cr-card" id="missing_card_DarkPrince"></a>
+                <a href="#" class="card_link" data-hash="Prince" data-elixir="5" data-rarity="3" data-arena="0"><img src="/img/cards/Prince.png" class="cr-card" id="missing_card_Prince"></a>
+                <a href="#" class="card_link" data-hash="Witch" data-elixir="5" data-rarity="3" data-arena="0"><img src="/img/cards/Witch.png" class="cr-card" id="missing_card_Witch"></a>
+                <a href="#" class="card_link" data-hash="Balloon" data-elixir="5" data-rarity="3" data-arena="2"><img src="/img/cards/Balloon.png" class="cr-card" id="missing_card_Balloon"></a>
+                <a href="#" class="card_link" data-hash="Bowler" data-elixir="5" data-rarity="3" data-arena="8"><img src="/img/cards/Bowler.png" class="cr-card" id="missing_card_Bowler"></a>
+                <a href="#" class="card_link" data-hash="Exe" data-elixir="5" data-rarity="3" data-arena="9"><img src="/img/cards/Exe.png" class="cr-card" id="missing_card_Exe"></a>
+                <a href="#" class="card_link" data-hash="CannonCart" data-elixir="5" data-rarity="3" data-arena="10"><img src="/img/cards/CannonCart.png" class="cr-card" id="missing_card_CannonCart"></a>
+                <a href="#" class="card_link" data-hash="Lightning" data-elixir="6" data-rarity="3" data-arena="1"><img src="/img/cards/Lightning.png" class="cr-card" id="missing_card_Lightning"></a>
+                <a href="#" class="card_link" data-hash="GiantSkelly" data-elixir="6" data-rarity="3" data-arena="2"><img src="/img/cards/GiantSkelly.png" class="cr-card" id="missing_card_GiantSkelly"></a>
+                <a href="#" class="card_link" data-hash="XBow" data-elixir="6" data-rarity="3" data-arena="3"><img src="/img/cards/XBow.png" class="cr-card" id="missing_card_XBow"></a>
+                <a href="#" class="card_link" data-hash="PEKKA" data-elixir="7" data-rarity="3" data-arena="4"><img src="/img/cards/PEKKA.png" class="cr-card" id="missing_card_PEKKA"></a>
+                <a href="#" class="card_link" data-hash="Golem" data-elixir="8" data-rarity="3" data-arena="6"><img src="/img/cards/Golem.png" class="cr-card" id="missing_card_Golem"></a>
+                <a href="#" class="card_link" data-hash="Log" data-elixir="2" data-rarity="4" data-arena="6"><img src="/img/cards/Log.png" class="cr-card" id="missing_card_Log"></a>
+                <a href="#" class="card_link" data-hash="IceWiz" data-elixir="3" data-rarity="4" data-arena="5"><img src="/img/cards/IceWiz.png" class="cr-card" id="missing_card_IceWiz"></a>
+                <a href="#" class="card_link" data-hash="Miner" data-elixir="3" data-rarity="4" data-arena="6"><img src="/img/cards/Miner.png" class="cr-card" id="missing_card_Miner"></a>
+                <a href="#" class="card_link" data-hash="Princess" data-elixir="3" data-rarity="4" data-arena="7"><img src="/img/cards/Princess.png" class="cr-card" id="missing_card_Princess"></a>
+                <a href="#" class="card_link" data-hash="Bandit" data-elixir="3" data-rarity="4" data-arena="9"><img src="/img/cards/Bandit.png" class="cr-card" id="missing_card_Bandit"></a>
+                <a href="#" class="card_link" data-hash="InfernoD" data-elixir="4" data-rarity="4" data-arena="4"><img src="/img/cards/InfernoD.png" class="cr-card" id="missing_card_InfernoD"></a>
+                <a href="#" class="card_link" data-hash="eWiz" data-elixir="4" data-rarity="4" data-arena="7"><img src="/img/cards/eWiz.png" class="cr-card" id="missing_card_eWiz"></a>
+                <a href="#" class="card_link" data-hash="Lumber" data-elixir="4" data-rarity="4" data-arena="8"><img src="/img/cards/Lumber.png" class="cr-card" id="missing_card_Lumber"></a>
+                <a href="#" class="card_link" data-hash="NightWitch" data-elixir="4" data-rarity="4" data-arena="8"><img src="/img/cards/NightWitch.png" class="cr-card" id="missing_card_NightWitch"></a>
+                <a href="#" class="card_link" data-hash="Graveyard" data-elixir="5" data-rarity="4" data-arena="5"><img src="/img/cards/Graveyard.png" class="cr-card" id="missing_card_Graveyard"></a>
+                <a href="#" class="card_link" data-hash="Sparky" data-elixir="6" data-rarity="4" data-arena="6"><img src="/img/cards/Sparky.png" class="cr-card" id="missing_card_Sparky"></a>
+                <a href="#" class="card_link" data-hash="Lava" data-elixir="7" data-rarity="4" data-arena="4"><img src="/img/cards/Lava.png" class="cr-card" id="missing_card_Lava"></a>
+                <a href="#" class="card_link" data-hash="MegaKnight" data-elixir="7" data-rarity="4" data-arena="10"><img src="/img/cards/MegaKnight.png" class="cr-card" id="missing_card_MegaKnight"></a>
+            </div>
+
+            <p class="mt-4 text-center">
+                <a href="#" class="btn btn-primary btn-lg" id="button_2_continue">Continue</a>
+            </p>
+
+        </div>
+    </div>
+
+
+    <div id="step3">
+        <div class="jumbotron jumbotron-fluid bg-dark py-3 py-sm-3 py-md-4 py-lg-4 px-md-3 px-lg-0 my-1">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-sm-6 col-md-8">
+                        <h2 class="display-5 text-muted" id="deck_h1">
+                            3. Your deck?
+
+                            <span style="white-space: nowrap; display: none;" id="deck_stats">
+                                <span class="ml-3">
+                                    <span id="cards_count">0</span> / <span class="text-muted">8</span>
+                                </span>
+                                <span class="ml-3">
+                                    <img src="/img/elixirdrop.png" class="elixir_drop"> <span class="elixir" id="aec">…</span>
+                                </span>
+                            </span>
+                        </h2>
+                        <p class="text-muted mb-3 mb-sm-0" id="deck_info">
+                            Click on cards to create a deck.
+                        </p>
+                    </div>
+                    <div class="col-sm-4 col-md-3 col-6 deck-container">
+                        <div id="deck_selected" style="display: none;">
+                            <a target="_blank" class="card_link" data-hash="Skellies" data-elixir="1" data-rarity="1" data-arena="2" style="display: none;" href="/card/detail/Skellies"><img src="/img/cards/Skellies.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="IceSpirit" data-elixir="1" data-rarity="1" data-arena="8" style="display: none;" href="/card/detail/IceSpirit"><img src="/img/cards/IceSpirit.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Gobs" data-elixir="2" data-rarity="1" data-arena="1" style="display: none;" href="/card/detail/Gobs"><img src="/img/cards/Gobs.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="SpearGobs" data-elixir="2" data-rarity="1" data-arena="1" style="display: none;" href="/card/detail/SpearGobs"><img src="/img/cards/SpearGobs.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="FireSpirits" data-elixir="2" data-rarity="1" data-arena="5" style="display: none;" href="/card/detail/FireSpirits"><img src="/img/cards/FireSpirits.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Zap" data-elixir="2" data-rarity="1" data-arena="5" style="display: none;" href="/card/detail/Zap"><img src="/img/cards/Zap.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Bats" data-elixir="2" data-rarity="1" data-arena="8" style="display: none;" href="/card/detail/Bats"><img src="/img/cards/Bats.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Archers" data-elixir="3" data-rarity="1" data-arena="0" style="display: none;" href="/card/detail/Archers"><img src="/img/cards/Archers.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Arrows" data-elixir="3" data-rarity="1" data-arena="0" style="display: none;" href="/card/detail/Arrows"><img src="/img/cards/Arrows.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Bomber" data-elixir="3" data-rarity="1" data-arena="0" style="display: none;" href="/card/detail/Bomber"><img src="/img/cards/Bomber.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Knight" data-elixir="3" data-rarity="1" data-arena="0" style="display: none;" href="/card/detail/Knight"><img src="/img/cards/Knight.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Minions" data-elixir="3" data-rarity="1" data-arena="2" style="display: none;" href="/card/detail/Minions"><img src="/img/cards/Minions.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Cannon" data-elixir="3" data-rarity="1" data-arena="3" style="display: none;" href="/card/detail/Cannon"><img src="/img/cards/Cannon.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="GobGang" data-elixir="3" data-rarity="1" data-arena="9" style="display: none;" href="/card/detail/GobGang"><img src="/img/cards/GobGang.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Tesla" data-elixir="4" data-rarity="1" data-arena="4" style="display: none;" href="/card/detail/Tesla"><img src="/img/cards/Tesla.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Mortar" data-elixir="4" data-rarity="1" data-arena="6" style="display: none;" href="/card/detail/Mortar"><img src="/img/cards/Mortar.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Barbs" data-elixir="5" data-rarity="1" data-arena="3" style="display: none;" href="/card/detail/Barbs"><img src="/img/cards/Barbs.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Horde" data-elixir="5" data-rarity="1" data-arena="4" style="display: none;" href="/card/detail/Horde"><img src="/img/cards/Horde.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="eBarbs" data-elixir="6" data-rarity="1" data-arena="7" style="display: none;" href="/card/detail/eBarbs"><img src="/img/cards/eBarbs.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="RG" data-elixir="6" data-rarity="1" data-arena="7" style="display: none;" href="/card/detail/RG"><img src="/img/cards/RG.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="IceGolem" data-elixir="2" data-rarity="2" data-arena="8" style="display: none;" href="/card/detail/IceGolem"><img src="/img/cards/IceGolem.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Tombstone" data-elixir="3" data-rarity="2" data-arena="2" style="display: none;" href="/card/detail/Tombstone"><img src="/img/cards/Tombstone.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="MM" data-elixir="3" data-rarity="2" data-arena="7" style="display: none;" href="/card/detail/MM"><img src="/img/cards/MM.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="DartGob" data-elixir="3" data-rarity="2" data-arena="9" style="display: none;" href="/card/detail/DartGob"><img src="/img/cards/DartGob.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Heal" data-elixir="3" data-rarity="2" data-arena="10" style="display: none;" href="/card/detail/Heal"><img src="/img/cards/Heal.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Fireball" data-elixir="4" data-rarity="2" data-arena="0" style="display: none;" href="/card/detail/Fireball"><img src="/img/cards/Fireball.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="MP" data-elixir="4" data-rarity="2" data-arena="0" style="display: none;" href="/card/detail/MP"><img src="/img/cards/MP.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Musk" data-elixir="4" data-rarity="2" data-arena="0" style="display: none;" href="/card/detail/Musk"><img src="/img/cards/Musk.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Valk" data-elixir="4" data-rarity="2" data-arena="1" style="display: none;" href="/card/detail/Valk"><img src="/img/cards/Valk.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Hog" data-elixir="4" data-rarity="2" data-arena="4" style="display: none;" href="/card/detail/Hog"><img src="/img/cards/Hog.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Furnace" data-elixir="4" data-rarity="2" data-arena="5" style="display: none;" href="/card/detail/Furnace"><img src="/img/cards/Furnace.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Ram" data-elixir="4" data-rarity="2" data-arena="6" style="display: none;" href="/card/detail/Ram"><img src="/img/cards/Ram.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Giant" data-elixir="5" data-rarity="2" data-arena="0" style="display: none;" href="/card/detail/Giant"><img src="/img/cards/Giant.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="GobHut" data-elixir="5" data-rarity="2" data-arena="1" style="display: none;" href="/card/detail/GobHut"><img src="/img/cards/GobHut.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="BombTower" data-elixir="5" data-rarity="2" data-arena="2" style="display: none;" href="/card/detail/BombTower"><img src="/img/cards/BombTower.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Inferno" data-elixir="5" data-rarity="2" data-arena="4" style="display: none;" href="/card/detail/Inferno"><img src="/img/cards/Inferno.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Wiz" data-elixir="5" data-rarity="2" data-arena="5" style="display: none;" href="/card/detail/Wiz"><img src="/img/cards/Wiz.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Rocket" data-elixir="6" data-rarity="2" data-arena="3" style="display: none;" href="/card/detail/Rocket"><img src="/img/cards/Rocket.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Pump" data-elixir="6" data-rarity="2" data-arena="6" style="display: none;" href="/card/detail/Pump"><img src="/img/cards/Pump.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="BarbHut" data-elixir="7" data-rarity="2" data-arena="3" style="display: none;" href="/card/detail/BarbHut"><img src="/img/cards/BarbHut.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="3M" data-elixir="9" data-rarity="2" data-arena="7" style="display: none;" href="/card/detail/3M"><img src="/img/cards/3M.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Mirror" data-elixir="" data-rarity="3" data-arena="5" style="display: none;" href="/card/detail/Mirror"><img src="/img/cards/Mirror.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Rage" data-elixir="2" data-rarity="3" data-arena="3" style="display: none;" href="/card/detail/Rage"><img src="/img/cards/Rage.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Skarmy" data-elixir="3" data-rarity="3" data-arena="0" style="display: none;" href="/card/detail/Skarmy"><img src="/img/cards/Skarmy.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Barrel" data-elixir="3" data-rarity="3" data-arena="1" style="display: none;" href="/card/detail/Barrel"><img src="/img/cards/Barrel.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Tornado" data-elixir="3" data-rarity="3" data-arena="6" style="display: none;" href="/card/detail/Tornado"><img src="/img/cards/Tornado.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Guards" data-elixir="3" data-rarity="3" data-arena="7" style="display: none;" href="/card/detail/Guards"><img src="/img/cards/Guards.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Clone" data-elixir="3" data-rarity="3" data-arena="8" style="display: none;" href="/card/detail/Clone"><img src="/img/cards/Clone.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="BabyD" data-elixir="4" data-rarity="3" data-arena="0" style="display: none;" href="/card/detail/BabyD"><img src="/img/cards/BabyD.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Freeze" data-elixir="4" data-rarity="3" data-arena="4" style="display: none;" href="/card/detail/Freeze"><img src="/img/cards/Freeze.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Poison" data-elixir="4" data-rarity="3" data-arena="5" style="display: none;" href="/card/detail/Poison"><img src="/img/cards/Poison.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="DarkPrince" data-elixir="4" data-rarity="3" data-arena="7" style="display: none;" href="/card/detail/DarkPrince"><img src="/img/cards/DarkPrince.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Prince" data-elixir="5" data-rarity="3" data-arena="0" style="display: none;" href="/card/detail/Prince"><img src="/img/cards/Prince.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Witch" data-elixir="5" data-rarity="3" data-arena="0" style="display: none;" href="/card/detail/Witch"><img src="/img/cards/Witch.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Balloon" data-elixir="5" data-rarity="3" data-arena="2" style="display: none;" href="/card/detail/Balloon"><img src="/img/cards/Balloon.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Bowler" data-elixir="5" data-rarity="3" data-arena="8" style="display: none;" href="/card/detail/Bowler"><img src="/img/cards/Bowler.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Exe" data-elixir="5" data-rarity="3" data-arena="9" style="display: none;" href="/card/detail/Exe"><img src="/img/cards/Exe.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="CannonCart" data-elixir="5" data-rarity="3" data-arena="10" style="display: none;" href="/card/detail/CannonCart"><img src="/img/cards/CannonCart.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Lightning" data-elixir="6" data-rarity="3" data-arena="1" style="display: none;" href="/card/detail/Lightning"><img src="/img/cards/Lightning.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="GiantSkelly" data-elixir="6" data-rarity="3" data-arena="2" style="display: none;" href="/card/detail/GiantSkelly"><img src="/img/cards/GiantSkelly.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="XBow" data-elixir="6" data-rarity="3" data-arena="3" style="display: none;" href="/card/detail/XBow"><img src="/img/cards/XBow.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="PEKKA" data-elixir="7" data-rarity="3" data-arena="4" style="display: none;" href="/card/detail/PEKKA"><img src="/img/cards/PEKKA.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Golem" data-elixir="8" data-rarity="3" data-arena="6" style="display: none;" href="/card/detail/Golem"><img src="/img/cards/Golem.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Log" data-elixir="2" data-rarity="4" data-arena="6" style="display: none;" href="/card/detail/Log"><img src="/img/cards/Log.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="IceWiz" data-elixir="3" data-rarity="4" data-arena="5" style="display: none;" href="/card/detail/IceWiz"><img src="/img/cards/IceWiz.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Miner" data-elixir="3" data-rarity="4" data-arena="6" style="display: none;" href="/card/detail/Miner"><img src="/img/cards/Miner.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Princess" data-elixir="3" data-rarity="4" data-arena="7" style="display: none;" href="/card/detail/Princess"><img src="/img/cards/Princess.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Bandit" data-elixir="3" data-rarity="4" data-arena="9" style="display: none;" href="/card/detail/Bandit"><img src="/img/cards/Bandit.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="InfernoD" data-elixir="4" data-rarity="4" data-arena="4" style="display: none;" href="/card/detail/InfernoD"><img src="/img/cards/InfernoD.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="eWiz" data-elixir="4" data-rarity="4" data-arena="7" style="display: none;" href="/card/detail/eWiz"><img src="/img/cards/eWiz.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Lumber" data-elixir="4" data-rarity="4" data-arena="8" style="display: none;" href="/card/detail/Lumber"><img src="/img/cards/Lumber.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="NightWitch" data-elixir="4" data-rarity="4" data-arena="8" style="display: none;" href="/card/detail/NightWitch"><img src="/img/cards/NightWitch.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Graveyard" data-elixir="5" data-rarity="4" data-arena="5" style="display: none;" href="/card/detail/Graveyard"><img src="/img/cards/Graveyard.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Sparky" data-elixir="6" data-rarity="4" data-arena="6" style="display: none;" href="/card/detail/Sparky"><img src="/img/cards/Sparky.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="Lava" data-elixir="7" data-rarity="4" data-arena="4" style="display: none;" href="/card/detail/Lava"><img src="/img/cards/Lava.png" class="cr-card"></a>
+                            <a target="_blank" class="card_link" data-hash="MegaKnight" data-elixir="7" data-rarity="4" data-arena="10" style="display: none;" href="/card/detail/MegaKnight"><img src="/img/cards/MegaKnight.png" class="cr-card"></a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div style="display: none;" id="deck_picker">
+
+
+        <div class="container pb-3 my-3">
+            <div id="card_picker_deck" class="card_picker clearfix list-of-cards">
+                <a href="#" class="card_link" data-hash="Skellies" data-elixir="1" data-rarity="1" data-arena="2"><img src="/img/cards/Skellies.png" class="cr-card" id="deck_card_Skellies"></a>
+                <a href="#" class="card_link" data-hash="IceSpirit" data-elixir="1" data-rarity="1" data-arena="8"><img src="/img/cards/IceSpirit.png" class="cr-card" id="deck_card_IceSpirit"></a>
+                <a href="#" class="card_link" data-hash="Gobs" data-elixir="2" data-rarity="1" data-arena="1"><img src="/img/cards/Gobs.png" class="cr-card" id="deck_card_Gobs"></a>
+                <a href="#" class="card_link" data-hash="SpearGobs" data-elixir="2" data-rarity="1" data-arena="1"><img src="/img/cards/SpearGobs.png" class="cr-card" id="deck_card_SpearGobs"></a>
+                <a href="#" class="card_link" data-hash="FireSpirits" data-elixir="2" data-rarity="1" data-arena="5"><img src="/img/cards/FireSpirits.png" class="cr-card" id="deck_card_FireSpirits"></a>
+                <a href="#" class="card_link" data-hash="Zap" data-elixir="2" data-rarity="1" data-arena="5"><img src="/img/cards/Zap.png" class="cr-card" id="deck_card_Zap"></a>
+                <a href="#" class="card_link" data-hash="Bats" data-elixir="2" data-rarity="1" data-arena="8"><img src="/img/cards/Bats.png" class="cr-card" id="deck_card_Bats"></a>
+                <a href="#" class="card_link" data-hash="Archers" data-elixir="3" data-rarity="1" data-arena="0"><img src="/img/cards/Archers.png" class="cr-card" id="deck_card_Archers"></a>
+                <a href="#" class="card_link" data-hash="Arrows" data-elixir="3" data-rarity="1" data-arena="0"><img src="/img/cards/Arrows.png" class="cr-card" id="deck_card_Arrows"></a>
+                <a href="#" class="card_link" data-hash="Bomber" data-elixir="3" data-rarity="1" data-arena="0"><img src="/img/cards/Bomber.png" class="cr-card" id="deck_card_Bomber"></a>
+                <a href="#" class="card_link" data-hash="Knight" data-elixir="3" data-rarity="1" data-arena="0"><img src="/img/cards/Knight.png" class="cr-card" id="deck_card_Knight"></a>
+                <a href="#" class="card_link" data-hash="Minions" data-elixir="3" data-rarity="1" data-arena="2"><img src="/img/cards/Minions.png" class="cr-card" id="deck_card_Minions"></a>
+                <a href="#" class="card_link" data-hash="Cannon" data-elixir="3" data-rarity="1" data-arena="3"><img src="/img/cards/Cannon.png" class="cr-card" id="deck_card_Cannon"></a>
+                <a href="#" class="card_link" data-hash="GobGang" data-elixir="3" data-rarity="1" data-arena="9"><img src="/img/cards/GobGang.png" class="cr-card" id="deck_card_GobGang"></a>
+                <a href="#" class="card_link" data-hash="Tesla" data-elixir="4" data-rarity="1" data-arena="4"><img src="/img/cards/Tesla.png" class="cr-card" id="deck_card_Tesla"></a>
+                <a href="#" class="card_link" data-hash="Mortar" data-elixir="4" data-rarity="1" data-arena="6"><img src="/img/cards/Mortar.png" class="cr-card" id="deck_card_Mortar"></a>
+                <a href="#" class="card_link" data-hash="Barbs" data-elixir="5" data-rarity="1" data-arena="3"><img src="/img/cards/Barbs.png" class="cr-card" id="deck_card_Barbs"></a>
+                <a href="#" class="card_link" data-hash="Horde" data-elixir="5" data-rarity="1" data-arena="4"><img src="/img/cards/Horde.png" class="cr-card" id="deck_card_Horde"></a>
+                <a href="#" class="card_link" data-hash="eBarbs" data-elixir="6" data-rarity="1" data-arena="7"><img src="/img/cards/eBarbs.png" class="cr-card" id="deck_card_eBarbs"></a>
+                <a href="#" class="card_link" data-hash="RG" data-elixir="6" data-rarity="1" data-arena="7"><img src="/img/cards/RG.png" class="cr-card" id="deck_card_RG"></a>
+                <a href="#" class="card_link" data-hash="IceGolem" data-elixir="2" data-rarity="2" data-arena="8"><img src="/img/cards/IceGolem.png" class="cr-card" id="deck_card_IceGolem"></a>
+                <a href="#" class="card_link" data-hash="Tombstone" data-elixir="3" data-rarity="2" data-arena="2"><img src="/img/cards/Tombstone.png" class="cr-card" id="deck_card_Tombstone"></a>
+                <a href="#" class="card_link" data-hash="MM" data-elixir="3" data-rarity="2" data-arena="7"><img src="/img/cards/MM.png" class="cr-card" id="deck_card_MM"></a>
+                <a href="#" class="card_link" data-hash="DartGob" data-elixir="3" data-rarity="2" data-arena="9"><img src="/img/cards/DartGob.png" class="cr-card" id="deck_card_DartGob"></a>
+                <a href="#" class="card_link" data-hash="Heal" data-elixir="3" data-rarity="2" data-arena="10"><img src="/img/cards/Heal.png" class="cr-card" id="deck_card_Heal"></a>
+                <a href="#" class="card_link" data-hash="Fireball" data-elixir="4" data-rarity="2" data-arena="0"><img src="/img/cards/Fireball.png" class="cr-card" id="deck_card_Fireball"></a>
+                <a href="#" class="card_link" data-hash="MP" data-elixir="4" data-rarity="2" data-arena="0"><img src="/img/cards/MP.png" class="cr-card" id="deck_card_MP"></a>
+                <a href="#" class="card_link" data-hash="Musk" data-elixir="4" data-rarity="2" data-arena="0"><img src="/img/cards/Musk.png" class="cr-card" id="deck_card_Musk"></a>
+                <a href="#" class="card_link" data-hash="Valk" data-elixir="4" data-rarity="2" data-arena="1"><img src="/img/cards/Valk.png" class="cr-card" id="deck_card_Valk"></a>
+                <a href="#" class="card_link" data-hash="Hog" data-elixir="4" data-rarity="2" data-arena="4"><img src="/img/cards/Hog.png" class="cr-card" id="deck_card_Hog"></a>
+                <a href="#" class="card_link" data-hash="Furnace" data-elixir="4" data-rarity="2" data-arena="5"><img src="/img/cards/Furnace.png" class="cr-card" id="deck_card_Furnace"></a>
+                <a href="#" class="card_link" data-hash="Ram" data-elixir="4" data-rarity="2" data-arena="6"><img src="/img/cards/Ram.png" class="cr-card" id="deck_card_Ram"></a>
+                <a href="#" class="card_link" data-hash="Giant" data-elixir="5" data-rarity="2" data-arena="0"><img src="/img/cards/Giant.png" class="cr-card" id="deck_card_Giant"></a>
+                <a href="#" class="card_link" data-hash="GobHut" data-elixir="5" data-rarity="2" data-arena="1"><img src="/img/cards/GobHut.png" class="cr-card" id="deck_card_GobHut"></a>
+                <a href="#" class="card_link" data-hash="BombTower" data-elixir="5" data-rarity="2" data-arena="2"><img src="/img/cards/BombTower.png" class="cr-card" id="deck_card_BombTower"></a>
+                <a href="#" class="card_link" data-hash="Inferno" data-elixir="5" data-rarity="2" data-arena="4"><img src="/img/cards/Inferno.png" class="cr-card" id="deck_card_Inferno"></a>
+                <a href="#" class="card_link" data-hash="Wiz" data-elixir="5" data-rarity="2" data-arena="5"><img src="/img/cards/Wiz.png" class="cr-card" id="deck_card_Wiz"></a>
+                <a href="#" class="card_link" data-hash="Rocket" data-elixir="6" data-rarity="2" data-arena="3"><img src="/img/cards/Rocket.png" class="cr-card" id="deck_card_Rocket"></a>
+                <a href="#" class="card_link" data-hash="Pump" data-elixir="6" data-rarity="2" data-arena="6"><img src="/img/cards/Pump.png" class="cr-card" id="deck_card_Pump"></a>
+                <a href="#" class="card_link" data-hash="BarbHut" data-elixir="7" data-rarity="2" data-arena="3"><img src="/img/cards/BarbHut.png" class="cr-card" id="deck_card_BarbHut"></a>
+                <a href="#" class="card_link" data-hash="3M" data-elixir="9" data-rarity="2" data-arena="7"><img src="/img/cards/3M.png" class="cr-card" id="deck_card_3M"></a>
+                <a href="#" class="card_link" data-hash="Mirror" data-elixir="" data-rarity="3" data-arena="5"><img src="/img/cards/Mirror.png" class="cr-card" id="deck_card_Mirror"></a>
+                <a href="#" class="card_link" data-hash="Rage" data-elixir="2" data-rarity="3" data-arena="3"><img src="/img/cards/Rage.png" class="cr-card" id="deck_card_Rage"></a>
+                <a href="#" class="card_link" data-hash="Skarmy" data-elixir="3" data-rarity="3" data-arena="0"><img src="/img/cards/Skarmy.png" class="cr-card" id="deck_card_Skarmy"></a>
+                <a href="#" class="card_link" data-hash="Barrel" data-elixir="3" data-rarity="3" data-arena="1"><img src="/img/cards/Barrel.png" class="cr-card" id="deck_card_Barrel"></a>
+                <a href="#" class="card_link" data-hash="Tornado" data-elixir="3" data-rarity="3" data-arena="6"><img src="/img/cards/Tornado.png" class="cr-card" id="deck_card_Tornado"></a>
+                <a href="#" class="card_link" data-hash="Guards" data-elixir="3" data-rarity="3" data-arena="7"><img src="/img/cards/Guards.png" class="cr-card" id="deck_card_Guards"></a>
+                <a href="#" class="card_link" data-hash="Clone" data-elixir="3" data-rarity="3" data-arena="8"><img src="/img/cards/Clone.png" class="cr-card" id="deck_card_Clone"></a>
+                <a href="#" class="card_link" data-hash="BabyD" data-elixir="4" data-rarity="3" data-arena="0"><img src="/img/cards/BabyD.png" class="cr-card" id="deck_card_BabyD"></a>
+                <a href="#" class="card_link" data-hash="Freeze" data-elixir="4" data-rarity="3" data-arena="4"><img src="/img/cards/Freeze.png" class="cr-card" id="deck_card_Freeze"></a>
+                <a href="#" class="card_link" data-hash="Poison" data-elixir="4" data-rarity="3" data-arena="5"><img src="/img/cards/Poison.png" class="cr-card" id="deck_card_Poison"></a>
+                <a href="#" class="card_link" data-hash="DarkPrince" data-elixir="4" data-rarity="3" data-arena="7"><img src="/img/cards/DarkPrince.png" class="cr-card" id="deck_card_DarkPrince"></a>
+                <a href="#" class="card_link" data-hash="Prince" data-elixir="5" data-rarity="3" data-arena="0"><img src="/img/cards/Prince.png" class="cr-card" id="deck_card_Prince"></a>
+                <a href="#" class="card_link" data-hash="Witch" data-elixir="5" data-rarity="3" data-arena="0"><img src="/img/cards/Witch.png" class="cr-card" id="deck_card_Witch"></a>
+                <a href="#" class="card_link" data-hash="Balloon" data-elixir="5" data-rarity="3" data-arena="2"><img src="/img/cards/Balloon.png" class="cr-card" id="deck_card_Balloon"></a>
+                <a href="#" class="card_link" data-hash="Bowler" data-elixir="5" data-rarity="3" data-arena="8"><img src="/img/cards/Bowler.png" class="cr-card" id="deck_card_Bowler"></a>
+                <a href="#" class="card_link" data-hash="Exe" data-elixir="5" data-rarity="3" data-arena="9"><img src="/img/cards/Exe.png" class="cr-card" id="deck_card_Exe"></a>
+                <a href="#" class="card_link" data-hash="CannonCart" data-elixir="5" data-rarity="3" data-arena="10"><img src="/img/cards/CannonCart.png" class="cr-card" id="deck_card_CannonCart"></a>
+                <a href="#" class="card_link" data-hash="Lightning" data-elixir="6" data-rarity="3" data-arena="1"><img src="/img/cards/Lightning.png" class="cr-card" id="deck_card_Lightning"></a>
+                <a href="#" class="card_link" data-hash="GiantSkelly" data-elixir="6" data-rarity="3" data-arena="2"><img src="/img/cards/GiantSkelly.png" class="cr-card" id="deck_card_GiantSkelly"></a>
+                <a href="#" class="card_link" data-hash="XBow" data-elixir="6" data-rarity="3" data-arena="3"><img src="/img/cards/XBow.png" class="cr-card" id="deck_card_XBow"></a>
+                <a href="#" class="card_link" data-hash="PEKKA" data-elixir="7" data-rarity="3" data-arena="4"><img src="/img/cards/PEKKA.png" class="cr-card" id="deck_card_PEKKA"></a>
+                <a href="#" class="card_link" data-hash="Golem" data-elixir="8" data-rarity="3" data-arena="6"><img src="/img/cards/Golem.png" class="cr-card" id="deck_card_Golem"></a>
+                <a href="#" class="card_link" data-hash="Log" data-elixir="2" data-rarity="4" data-arena="6"><img src="/img/cards/Log.png" class="cr-card" id="deck_card_Log"></a>
+                <a href="#" class="card_link" data-hash="IceWiz" data-elixir="3" data-rarity="4" data-arena="5"><img src="/img/cards/IceWiz.png" class="cr-card" id="deck_card_IceWiz"></a>
+                <a href="#" class="card_link" data-hash="Miner" data-elixir="3" data-rarity="4" data-arena="6"><img src="/img/cards/Miner.png" class="cr-card" id="deck_card_Miner"></a>
+                <a href="#" class="card_link" data-hash="Princess" data-elixir="3" data-rarity="4" data-arena="7"><img src="/img/cards/Princess.png" class="cr-card" id="deck_card_Princess"></a>
+                <a href="#" class="card_link" data-hash="Bandit" data-elixir="3" data-rarity="4" data-arena="9"><img src="/img/cards/Bandit.png" class="cr-card" id="deck_card_Bandit"></a>
+                <a href="#" class="card_link" data-hash="InfernoD" data-elixir="4" data-rarity="4" data-arena="4"><img src="/img/cards/InfernoD.png" class="cr-card" id="deck_card_InfernoD"></a>
+                <a href="#" class="card_link" data-hash="eWiz" data-elixir="4" data-rarity="4" data-arena="7"><img src="/img/cards/eWiz.png" class="cr-card" id="deck_card_eWiz"></a>
+                <a href="#" class="card_link" data-hash="Lumber" data-elixir="4" data-rarity="4" data-arena="8"><img src="/img/cards/Lumber.png" class="cr-card" id="deck_card_Lumber"></a>
+                <a href="#" class="card_link" data-hash="NightWitch" data-elixir="4" data-rarity="4" data-arena="8"><img src="/img/cards/NightWitch.png" class="cr-card" id="deck_card_NightWitch"></a>
+                <a href="#" class="card_link" data-hash="Graveyard" data-elixir="5" data-rarity="4" data-arena="5"><img src="/img/cards/Graveyard.png" class="cr-card" id="deck_card_Graveyard"></a>
+                <a href="#" class="card_link" data-hash="Sparky" data-elixir="6" data-rarity="4" data-arena="6"><img src="/img/cards/Sparky.png" class="cr-card" id="deck_card_Sparky"></a>
+                <a href="#" class="card_link" data-hash="Lava" data-elixir="7" data-rarity="4" data-arena="4"><img src="/img/cards/Lava.png" class="cr-card" id="deck_card_Lava"></a>
+                <a href="#" class="card_link" data-hash="MegaKnight" data-elixir="7" data-rarity="4" data-arena="10"><img src="/img/cards/MegaKnight.png" class="cr-card" id="deck_card_MegaKnight"></a>
+            </div>
+        </div>
+
+        <div class="container pb-3 my-3">
+            <p class="mt-4 text-center clearfix">
+                <a class="btn btn-primary btn-lg disabled align-content-center mx-auto p-3" id="button_analyze" href="/check/">
+                    Check my deck
+                </a>
+                <a id="permalink" class="btn btn-link" style="display: none;" href="/check/deck">permalink</a>
+            </p>
+        </div>
+
+    </div>
+
+    
+    <div class="container mb-3">
+        <!-- Footer -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-5107917538748963"
+             data-ad-slot="5979296330"
+             data-ad-format="auto"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({ });
+        </script>
+    </div>
+
+    <div class="jumbotron jumbotron-fluid bg-dark py-3 mb-0 separated">
+        <div class="container text-center">
+            <p class="text-white mb-3">Did Deck Shop help you? Tell your clanmates!</p>
+
+<ul class="share-buttons mb-2">
+    <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.deckshop.pro&t=" title="Share on Facebook" target="_blank" class="share-facebook btn btn-primary btn-sm rtl-pl-0 py-0 rtl-mr-2" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img alt="Facebook" src="/img/social/Facebook.svg"> Share</a></li>
+    <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.deckshop.pro&text=:%20https%3A%2F%2Fwww.deckshop.pro&via=pavelfi" target="_blank" class="share-twitter btn btn-info btn-sm rtl-pl-0 py-0 rtl-mr-2" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img alt="Twitter" src="/img/social/Twitter.svg"> Tweet</a></li>
+    <li><a href="http://www.reddit.com/submit?url=https%3A%2F%2Fwww.deckshop.pro&title=" target="_blank" title="Submit to Reddit" class="share-reddit btn btn-danger btn-sm py-0 rtl-pl-0" onclick="window.open('https://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Reddit" src="/img/social/Reddit.svg"> Post</a></li>
+</ul>
+
+        </div>
+    </div>
+
+    <footer class="bg-dark text-muted text-center pt-3 pb-4">
+        <div class="container">
+
+
+            <p class="my-3">Did you know there are 18 855 883 575 possible unique deck combinations? So… you're welcome! 🤓</p>
+
+
+            <div class="text-center mb-3">
+                <a href="https://play.google.com/store/apps/details?id=pro.deckshop.app&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get Deck Shop on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" class="img-fluid" style="height: 4rem;"></a>
+            </div>
+
+
+            <p class="mb-3 mt-3">
+                Made with passion and ♥ by <a class="text-white" href="/about/">pavelfi</a>
+                from Orange Juice.
+            </p>
+
+            <p class="mb-5 pt-2">
+                <a href="https://twitter.com/pavelfi" class="text-white" style="text-decoration: none;" dir="ltr"><img src="/img/twitter_logo.svg" alt="" style="height: 32px;"> @pavelfi</a>
+                <a href="https://discord.me/deckshop" target="_blank"><img src="/img/discord_logo.svg" alt="Deck Shop Discord" style="height: 32px; margin-left: 16px;"></a>
+            </p>
+
+            <p class="small">
+                This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.
+                <br class="d-none d-lg-block">
+                For more information see <a href="http://www.supercell.com/fan-content-policy" target="_blank" rel="nofollow" class="text-white">Supercell’s Fan Content Policy</a>.
+            </p>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+
+    <script src="/js/nette.ajax.js"></script>
+    <script src="/js/ads.js"></script>
+    <script src="/js/js.cookie.js"></script>
+
+    <script type="text/javascript">
+        if(document.getElementById('EBgIVzGJewnd60MMWB5')){
+
+        } else {
+            document.getElementById('friendlyReminder').style.display='block';
+        }
+    </script>
+
+    <script type="text/javascript">
+        $(function() {
+            $.nette.init();
+
+                var link_perma = $("#permalink").attr("href");
+    var link_analyze = $("#button_analyze").attr("href");
+
+    var ec = {"Skellies":1,"IceSpirit":1,"Gobs":2,"SpearGobs":2,"FireSpirits":2,"Zap":2,"Bats":2,"Archers":3,"Arrows":3,"Bomber":3,"Knight":3,"Minions":3,"Cannon":3,"GobGang":3,"Tesla":4,"Mortar":4,"Barbs":5,"Horde":5,"eBarbs":6,"RG":6,"IceGolem":2,"Tombstone":3,"MM":3,"DartGob":3,"Heal":3,"Fireball":4,"MP":4,"Musk":4,"Valk":4,"Hog":4,"Furnace":4,"Ram":4,"Giant":5,"GobHut":5,"BombTower":5,"Inferno":5,"Wiz":5,"Rocket":6,"Pump":6,"BarbHut":7,"3M":9,"Mirror":null,"Rage":2,"Skarmy":3,"Barrel":3,"Tornado":3,"Guards":3,"Clone":3,"BabyD":4,"Freeze":4,"Poison":4,"DarkPrince":4,"Prince":5,"Witch":5,"Balloon":5,"Bowler":5,"Exe":5,"CannonCart":5,"Lightning":6,"GiantSkelly":6,"XBow":6,"PEKKA":7,"Golem":8,"Log":2,"IceWiz":3,"Miner":3,"Princess":3,"Bandit":3,"InfernoD":4,"eWiz":4,"Lumber":4,"NightWitch":4,"Graveyard":5,"Sparky":6,"Lava":7,"MegaKnight":7};
+    var hilite = [];
+    var deck = null;
+    var cards = [];
+    var missing_param = null;
+    var missing_cookie = Cookies.getJSON("missing");
+    var arena_cookie = Cookies.get("arena");
+    var missing = [];
+    var arena = null || arena_cookie || 11;
+
+    if (deck) {
+        var cards = deck.split('-');
+    }
+
+    if (missing_cookie) {
+        missing = missing_cookie;
+    }
+    if (missing_param) {
+        missing = missing_param.split('-');
+    }
+
+    if (arena_cookie) {
+        $('#arena_h1').addClass('text-muted').removeClass('text-white');
+        $('#arena_info').hide();
+        $('#arena_selected').text( "Arena" + " " + arena).fadeIn();
+        $('#arena_picker').hide();
+
+        $('#card_picker_missing .card_link').each(function (){
+            if (($(this).data('arena') > arena && $(this).data('rarity') < 4) || ($(this).data('rarity') == 4 && arena < 4)) {
+                $(this).hide();
+            }
+        });
+
+        $('#card_picker_deck .card_link').each(function () {
+            if (($(this).data('arena') > arena && $(this).data('rarity') < 4) || ($(this).data('rarity') == 4 && arena < 4) || missing.indexOf($(this).data('hash')) >= 0) {
+                $(this).hide();
+            }
+        });
+
+        if (!missing_cookie) missing_cookie = [];
+    }
+
+    if (missing_cookie) {
+
+        for (var i = 0, len = missing.length; i < len; i++) {
+            $('#missing_selected .card_link[data-hash=' + missing[i] + ']').show();
+            $('img#missing_card_' + missing[i]).addClass('active');
+        }
+
+        $('#missing_info').hide();
+        $('#missing_selected').slideDown();
+
+        if (missing.length == 0) {
+            $('#missing_selected').slideUp();
+            $('#missing_nothing').fadeIn();
+        }
+
+        $('#deck_h1').addClass('text-white').removeClass('text-muted');
+        $('#deck_info').addClass('lead text-white').removeClass('text-muted');
+        $('#deck_selected').slideDown();
+        $('#deck_picker').slideDown();
+        $('#deck_stats').fadeIn();
+
+        $('#btn_edit_arena').fadeIn();
+        $('#btn_edit_missing').fadeIn();
+
+        $('#btn_restart').fadeIn();
+    }
+
+    updateLinks();
+
+
+    if (deck) {
+        // startup
+        $('#cards_count').text(cards.length);
+
+        for (var i = 0, len = cards.length; i < len; i++) {
+            $('#deck_selected .card_link[data-hash=' + cards[i] + ']').show();
+            $('img#deck_card_' + cards[i]).addClass('active');
+        }
+
+        for (var i = 0, len = missing.length; i < len; i++) {
+            $('#missing_selected .card_link[data-hash=' + missing[i] + ']').show();
+            $('img#missing_card_' + missing[i]).addClass('active');
+        }
+
+        if (cards.length == 8) {
+            $('#button_analyze').removeClass('disabled');
+        }
+
+        $('#arena_h1').addClass('text-muted').removeClass('text-white');
+        $('#arena_info').hide();
+//        $('#arena_selected').html($('#arena_picker a[data-arena='+arena+']').html()).css('top', '-15px').fadeIn();
+        $('#arena_selected').text( "Arena" + " " + arena).fadeIn();
+        $('#arena_picker').hide();
+
+        $('#card_picker_deck .card_link').each(function () {
+            if (($(this).data('arena') > arena && $(this).data('rarity') < 4) || ($(this).data('rarity') == 4 && arena < 4) || missing.indexOf($(this).data('hash')) >= 0) {
+                $(this).hide();
+            }
+        });
+
+        $('#missing_info').hide();
+        $('#missing_selected').slideDown();
+
+        if (missing.length == 0) {
+            $('#missing_selected').slideUp();
+            $('#missing_nothing').fadeIn();
+        }
+
+        $('#deck_h1').addClass('text-white').removeClass('text-muted');
+        $('#deck_info').addClass('lead text-white').removeClass('text-muted');
+        $('#deck_selected').slideDown();
+        $('#deck_picker').slideDown();
+        $('#deck_stats').fadeIn();
+
+        $('#btn_edit_arena').fadeIn();
+        $('#btn_edit_missing').fadeIn();
+
+        $('#btn_restart').fadeIn();
+
+        if (hilite) {
+            for (var i = 0, len = hilite.length; i < len; i++) {
+                $('img#deck_card_' + hilite[i]).parent().addClass('hilited');
+            }
+        }
+
+        updateLinks();
+        calculateAec();
+    }
+
+    $('#arena_picker a[data-arena]').click(function (event) {
+        event.preventDefault();
+
+        arena = $(this).data('arena');
+
+        $('#arena_h1').addClass('text-muted').removeClass('text-white');
+        $('#arena_selected').text( "Arena" + " " + arena).addClass('text-white').removeClass('text-muted').fadeIn();
+        $('#arena_info').slideUp();
+        $('#arena_picker').slideUp();
+
+        $('#card_picker_missing .card_link').each(function () {
+            $(this).show();
+        });
+        $('#card_picker_missing .card_link').each(function () {
+            if (($(this).data('arena') > arena && $(this).data('rarity') < 4) || ($(this).data('rarity') == 4 && arena < 4)) {
+                $(this).hide();
+            }
+        });
+
+        if (missing.length > 0 || cards.length > 0) {
+
+            $('#deck_h1').addClass('text-white').removeClass('text-muted');
+            $('#deck_info').addClass('lead text-white').removeClass('text-muted').fadeIn();
+            $('#deck_selected').slideDown();
+            $('#deck_picker').slideDown();
+            $('#deck_stats').fadeIn();
+
+            $('#card_picker_deck .card_link').each(function () {
+                $(this).show();
+            });
+            $('#card_picker_deck .card_link').each(function () {
+                if (($(this).data('arena') > arena && $(this).data('rarity') < 4) || ($(this).data('rarity') == 4 && arena < 4) || missing.indexOf($(this).data('hash')) >= 0) {
+                    $(this).hide();
+                }
+            });
+
+            $('#btn_edit_missing').fadeIn();
+        } else {
+            $('#missing_picker').slideDown();
+            $('#missing_h1').addClass('text-white').removeClass('text-muted');
+            $('#missing_info').addClass('lead text-white').removeClass('text-muted').slideDown();
+            $('#missing_selected').slideDown();
+        }
+
+        $('#btn_restart').fadeIn();
+        $('#btn_edit_arena').fadeIn();
+
+        Cookies.set("arena", $(this).data('arena'));
+
+        updateLinks();
+    });
+
+    $('#card_picker_missing .card_link').click(function (event) {
+        event.preventDefault();
+
+        var hash = $(this).data('hash');
+        var child = $(this).children('img');
+        var pos = missing.indexOf(hash);
+
+        if (pos < 0) {
+            if (missing.length < 53) {
+                missing.push(hash);
+                child.addClass('active');
+                $('#missing_selected .card_link[data-hash=' + hash + ']').show();
+            }
+        } else if (pos >= 0) {
+            missing.splice(pos, 1);
+            child.removeClass('active');
+            $('#missing_selected .card_link[data-hash=' + hash + ']').hide();
+        }
+        updateLinks();
+    });
+
+    $('#button_2_continue').click(function (event) {
+        event.preventDefault();
+
+        $('#missing_h1').addClass('text-muted').removeClass('text-white');
+        $('#missing_info').slideUp();
+        $('#missing_picker').slideUp();
+
+        $('#card_picker_deck .card_link').each(function () {
+            $(this).show();
+        });
+        $('#card_picker_deck .card_link').each(function () {
+            if (($(this).data('arena') > arena && $(this).data('rarity') < 4) || ($(this).data('rarity') == 4 && arena < 4) || missing.indexOf($(this).data('hash')) >= 0) {
+                $(this).hide();
+            }
+        });
+
+        if (missing.length == 0) {
+            $('#missing_selected').slideUp();
+            $('#missing_nothing').fadeIn();
+        }
+
+        $('#deck_h1').addClass('text-white').removeClass('text-muted');
+        $('#deck_info').addClass('lead text-white').removeClass('text-muted').fadeIn();
+        $('#deck_selected').slideDown();
+        $('#deck_picker').slideDown();
+        $('#deck_stats').fadeIn();
+
+        Cookies.set("missing", missing);
+
+        $('#btn_edit_arena').fadeIn();
+        $('#btn_edit_missing').fadeIn();
+
+        updateLinks();
+    });
+
+    $('#btn_edit_arena').click(function (event) {
+        event.preventDefault();
+
+        $('#btn_edit_arena').fadeOut();
+        $('#btn_edit_missing').fadeOut();
+
+        $('#deck_h1').addClass('text-muted').removeClass('text-white');
+        $('#deck_info').fadeOut();
+        $('#deck_picker').slideUp();
+        $('#deck_stats').fadeOut();
+
+        $('#missing_h1').addClass('text-muted').removeClass('text-white');
+        $('#missing_info').slideUp();
+        $('#missing_picker').slideUp();
+
+        $('#arena_h1').addClass('text-white').removeClass('text-muted');
+        $('#arena_selected').addClass('text-muted').removeClass('text-white');
+        $('#arena_info').slideDown();
+        $('#arena_picker').slideDown();
+
+        updateLinks();
+    });
+
+    $('#btn_edit_missing').click(function (event) {
+        event.preventDefault();
+
+        $('#btn_edit_arena').fadeOut();
+        $('#btn_edit_missing').fadeOut();
+
+        for (var i = 0, len = missing.length; i < len; i++) {
+            $('#missing_selected .card_link[data-hash=' + missing[i] + ']').show();
+            $('img#missing_card_' + missing[i]).addClass('active');
+        }
+
+        $('#deck_h1').addClass('text-muted').removeClass('text-white');
+        $('#deck_info').fadeOut();
+        $('#deck_picker').slideUp();
+        $('#deck_stats').fadeOut();
+
+        $('#missing_picker').slideDown();
+        $('#missing_h1').addClass('text-white').removeClass('text-muted');
+        $('#missing_info').addClass('lead text-white').removeClass('text-muted').slideDown();
+        $('#missing_selected').slideDown();
+        $('#missing_nothing').fadeOut();
+
+        updateLinks();
+    });
+
+    $('#card_picker_deck .card_link').click(function (event) {
+        event.preventDefault();
+
+        var hash = $(this).data('hash');
+        var child = $(this).children('img');
+        var pos = cards.indexOf(hash);
+
+        if (pos < 0) {
+            if (cards.length < 8) {
+                cards.push(hash);
+                child.addClass('active');
+                $('#deck_selected .card_link[data-hash=' + hash + ']').show();
+            }
+        } else if (pos >= 0) {
+            cards.splice(pos, 1);
+            child.removeClass('active');
+            $('#deck_selected .card_link[data-hash=' + hash + ']').hide();
+        }
+
+        $('#cards_count').text(cards.length);
+
+        if (cards.length == 8) {
+            $('#button_analyze').removeClass('disabled');
+        } else {
+            $('#button_analyze').addClass('disabled');
+        }
+
+        updateLinks();
+        calculateAec();
+    });
+
+    $('#btn_restart_a').click(function (event) {
+        event.preventDefault();
+
+        Cookies.remove("arena");
+        Cookies.remove("missing");
+
+        window.location.href = $(this).attr("href");
+    });
+
+
+    function updateLinks() {
+        var get_deck = "?deck=" + cards.join('-');
+        var get_missing = (missing.length > 0) ? "&missing=" + missing.join('-') : "";
+        var get_arena = (arena != 11) ? "&arena=" + arena : "";
+        var get_hilite = (hilite.length > 0) ? "&hilite=" + hilite.join('-') : "";
+
+
+        $("#permalink").attr("href", link_perma + get_deck + get_missing + get_arena + get_hilite);
+        $("#button_analyze").attr("href", link_analyze + get_deck + get_missing + get_arena);
+
+        window.history.replaceState( { } , null, link_perma + get_deck + get_missing + get_arena + get_hilite);
+    }
+
+    function calculateAec() {
+        if (cards.length < 8) {
+            $("#aec").text("…");
+        } else {
+            var result = 0;
+            var sum = 0;
+            for (var i = 0, len = cards.length; i < len; i++) {
+                sum += ec[cards[i]];
+            }
+
+            if (cards.includes('Mirror')) {
+                result = Math.floor(((sum + 1.99) / cards.length) * 10) / 10;
+            }
+            else {
+                result = sum / cards.length;
+            }
+
+            $("#aec").text(result.toFixed(1));
+        }
+    }
+
+        });
+    </script>
+</body>
+</html>
